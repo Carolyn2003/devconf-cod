@@ -2,6 +2,8 @@
 # -*- mode: ruby -*-
 # vi: set ft=ruby :
 
+#NOTE this currently sets up the WRONG drupal
+
 Vagrant.configure(2) do |config|
   config.vm.box = "fedora/27-cloud-base"
   config.ssh.insert_key = false
