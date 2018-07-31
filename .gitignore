@@ -6,3 +6,5 @@ sites/*/files
 sites/*/private
 
 .vagrant*
+cgi-bin
+usage
