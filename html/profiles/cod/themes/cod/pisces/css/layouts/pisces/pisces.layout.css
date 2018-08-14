@@ -25,7 +25,6 @@
   margin-bottom: 25px; }
 
 .l-content {
-  padding: 25px;
   margin-bottom: 4px; }
 
 /* Sidebars */
@@ -47,7 +46,6 @@
   /* Sidebars */
   .l-content {
     width: 66.50246%;
-    float: left;
     margin-right: -100%;
     margin-left: 0%;
     clear: none; }
@@ -94,13 +92,14 @@
   .l-constrained, .l-region--highlighted, .l-region--footer {
     width: 80%; }
 
-  /* Sidebars */
+  /* Sidebars*/
   .l-content {
     width: 66.50246%;
     float: left;
     margin-right: -100%;
     margin-left: 0%;
-    clear: none; }
+    clear: none;
+    }
 
   .has-no-sidebars .l-content {
     width: 100%;
@@ -126,7 +125,9 @@
     float: left;
     margin-right: -100%;
     margin-left: 0%;
-    clear: none; }
+    clear: none;
+
+   }
 
   .has-no-sidebars .l-content {
     width: 100%;
