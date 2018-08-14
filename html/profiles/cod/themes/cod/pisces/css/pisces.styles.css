@@ -288,7 +288,7 @@ p.button {
   background: #326294;
   clear: both;
   color: white;
-  padding: 15px;
+  padding: 15px; 
   font-weight: bold;
   text-align: center;
   border-radius: 6px; }
