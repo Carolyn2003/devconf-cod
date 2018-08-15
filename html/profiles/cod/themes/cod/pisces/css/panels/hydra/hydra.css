@@ -218,7 +218,7 @@ p.button {
     color: white;
     text-align: center; }
 
-.mean-container .l-region--preface .menu {
+/*.mean-container .l-region--preface .menu {
   display: none; }
 
 .l-region--preface .menu {
@@ -237,7 +237,7 @@ p.button {
     .l-region--preface .menu li a {
       text-decoration: none; }
       .l-region--preface .menu li a:link, .l-region--preface .menu li a:visited {
-        color: #615f5e; }
+        color: #615f5e; }*/
 
 .tabs--primary {
   border-bottom: none;
