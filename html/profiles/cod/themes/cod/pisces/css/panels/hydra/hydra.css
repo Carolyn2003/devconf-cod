@@ -1,4 +1,4 @@
-*, *:after, *:before {
+*/*, *:after, *:before {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
@@ -267,7 +267,7 @@ p.button {
     -khtml-border-radius: 6px 6px 0 0;
     border-radius: 6px 6px 0 0; }
 
-/* Schedule */
+/* Schedule 
 .view-cod-session-schedule ul.quicktabs-tabs.quicktabs-style-zen, .view-cod-bof-schedule ul.quicktabs-tabs.quicktabs-style-zen, .view-cod-schedule ul.quicktabs-tabs.quicktabs-style-zen {
   background: none; }
   .view-cod-session-schedule ul.quicktabs-tabs.quicktabs-style-zen li, .view-cod-bof-schedule ul.quicktabs-tabs.quicktabs-style-zen li, .view-cod-schedule ul.quicktabs-tabs.quicktabs-style-zen li {
@@ -275,7 +275,7 @@ p.button {
     border-radius: 6px;
     margin-bottom: 20px; }
     .view-cod-session-schedule ul.quicktabs-tabs.quicktabs-style-zen li.active, .view-cod-bof-schedule ul.quicktabs-tabs.quicktabs-style-zen li.active, .view-cod-schedule ul.quicktabs-tabs.quicktabs-style-zen li.active {
-      background: #dddddd; }
+      background: #615f5e; }
       .view-cod-session-schedule ul.quicktabs-tabs.quicktabs-style-zen li.active a, .view-cod-bof-schedule ul.quicktabs-tabs.quicktabs-style-zen li.active a, .view-cod-schedule ul.quicktabs-tabs.quicktabs-style-zen li.active a {
         background: none;
         color: white;
@@ -1704,4 +1704,4 @@ body #page .panel-display .width-100 {
     .panel-layout .bottom-right-content .width-100 .img-xl img {
       float: left;
       margin-right: 15px;
-      margin-bottom: 10px; } }
+      margin-bottom: 10px; } }*/
