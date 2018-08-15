@@ -100,8 +100,8 @@ table {
     background: #f1f2f5; }
 
 body {
-  color: #dddddd;
-  font-size: 30px;
+  color: #494747;
+  font-size: 16px;
   font-family: "PT Sans", sans-serif; }
 
 .front .l-region--footer h2 {
@@ -271,7 +271,7 @@ p.button {
 .view-cod-session-schedule ul.quicktabs-tabs.quicktabs-style-zen, .view-cod-bof-schedule ul.quicktabs-tabs.quicktabs-style-zen, .view-cod-schedule ul.quicktabs-tabs.quicktabs-style-zen {
   background: none; }
   .view-cod-session-schedule ul.quicktabs-tabs.quicktabs-style-zen li, .view-cod-bof-schedule ul.quicktabs-tabs.quicktabs-style-zen li, .view-cod-schedule ul.quicktabs-tabs.quicktabs-style-zen li {
-    background: #494747;
+    background: #dddddd;
     border-radius: 6px;
     margin-bottom: 20px; }
     .view-cod-session-schedule ul.quicktabs-tabs.quicktabs-style-zen li.active, .view-cod-bof-schedule ul.quicktabs-tabs.quicktabs-style-zen li.active, .view-cod-schedule ul.quicktabs-tabs.quicktabs-style-zen li.active {
