@@ -73,7 +73,7 @@ body {
     text-decoration: none; }
 
 .front .l-main-wrapper {
-  background-color: #dddddd; }
+  background-color: white; }
 
 .not-front .l-content, .not-front .l-region--sidebar .block {
   background-color: white; }
@@ -100,8 +100,8 @@ table {
     background: #f1f2f5; }
 
 body {
-  color: #494747;
-  font-size: 16px;
+  color: #dddddd;
+  font-size: 30px;
   font-family: "PT Sans", sans-serif; }
 
 .front .l-region--footer h2 {
