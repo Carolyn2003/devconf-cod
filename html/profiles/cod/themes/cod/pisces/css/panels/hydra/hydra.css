@@ -73,7 +73,7 @@ body {
     text-decoration: none; }
 
 .front .l-main-wrapper {
-  background-color: white; }
+  background-color: #dddddd; }
 
 .not-front .l-content, .not-front .l-region--sidebar .block {
   background-color: white; }
