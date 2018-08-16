@@ -112,7 +112,7 @@ body {
   text-align: center; }
 
 .l-region--sidebar .block h2 {
-  font-size: 0.9em;
+  font-size: 1.9em;
   margin-top: 0;
   text-transform: uppercase; }
 
@@ -140,7 +140,7 @@ p.button {
       width: 100%; }
     .l-region--footer .block img {
       width: 100%; } }
-/*p.button {
+p.button {
   border-bottom: solid 3px #25496e;
   -moz-border-radius: 2px;
   -webkit-border-radius: 2px;
@@ -157,7 +157,7 @@ p.button {
     text-decoration: none; }
   p.button:hover {
     background-color: #386fa7;
-    border-bottom: solid 3px #2f5d8c; }*/
+    border-bottom: solid 3px #2f5d8c; }
 
 .l-region--navigation .menu {
   padding-left: 0; }
