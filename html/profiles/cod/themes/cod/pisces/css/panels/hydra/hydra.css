@@ -1,4 +1,4 @@
-*, *:after, *:before {
+*/*, *:after, *:before {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
@@ -71,7 +71,7 @@ body {
   .l-region--highlighted p a {
     color: white;
     text-decoration: none; }
-
+*/
 .front .l-main-wrapper {
   background-color: white; }
 
