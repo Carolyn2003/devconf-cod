@@ -1,4 +1,4 @@
-*/*, *:after, *:before {
+*, *:after, *:before {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
@@ -71,7 +71,7 @@ body {
   .l-region--highlighted p a {
     color: white;
     text-decoration: none; }
-
+/*
 .front .l-main-wrapper {
   background-color: white; }
 
@@ -158,7 +158,7 @@ p.button {
   p.button:hover {
     background-color: #386fa7;
     border-bottom: solid 3px #2f5d8c; }
-
+*/
 .l-region--navigation .menu {
   padding-left: 0; }
   .l-region--navigation .menu a {
