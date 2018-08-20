@@ -110,7 +110,6 @@ table {
     background: #f1f2f5; }
 
 body {
-  background-color: white;
   color: #494747;
   font-size: 16px;
   font-family:"PT Sans", sans-serif, ; }
@@ -144,7 +143,7 @@ p.button {
 
 @media (min-width: 768px) {
   .l-region--footer .block {
-    float: left;
+    position:fixed;
     width: 28%;
     margin: 2%; }
     .l-region--footer .block:first-child {
