@@ -88,9 +88,6 @@ body {
   font-size: 22px;
   font-weight: lighter;
 }
-.l-content{
-  width:1400px;
-}
 menu, ol, ul {
   padding-left: 18px; }
 
@@ -115,9 +112,7 @@ table {
 body {
   color: #494747;
   font-size: 16px;
-  font-family:"PT Sans", sans-serif, ;
-  width: 100%;
-  background-color: white;}
+  font-family:"PT Sans", sans-serif, ; }
 
 .front .l-region--footer h2 {
   font-size: 2.25em;
@@ -267,10 +262,10 @@ p.button {
   padding-top:10px;
   padding-bottom: 10px;
   background-color: white;
-
 }
 #devconf_sponsors{
   float:right;
+
 }
 #devconf_dates{
   float:right;
