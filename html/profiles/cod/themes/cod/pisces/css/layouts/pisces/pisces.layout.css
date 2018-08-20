@@ -41,7 +41,7 @@
     margin-bottom: 0; }
 
   .l-constrained, .l-region--highlighted, .l-region--footer {
-    width: 90%; }
+    width: 100%; }
 
   /* Sidebars */
   .l-content {
