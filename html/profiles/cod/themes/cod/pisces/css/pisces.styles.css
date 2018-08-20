@@ -88,6 +88,9 @@ body {
   font-size: 22px;
   font-weight: lighter;
 }
+.l-content{
+  width:1400px;
+}
 menu, ol, ul {
   padding-left: 18px; }
 
