@@ -143,7 +143,7 @@ p.button {
 
 @media (min-width: 768px) {
   .l-region--footer .block {
-    position:fixed;
+    float: left;
     width: 28%;
     margin: 2%; }
     .l-region--footer .block:first-child {
@@ -229,7 +229,8 @@ p.button {
     text-align: center; }
 
 .mean-container .l-region--preface .menu {
-  display: none; }
+  display: none;
+  position: fixed;}
 
 .l-region--preface .menu {
   padding-left: 0;
