@@ -71,7 +71,7 @@ body {
   .l-region--highlighted p a {
     color: white;
     text-decoration: none; }
-/*
+
 .front .l-main-wrapper {
   background-color: white; }
 
@@ -98,9 +98,9 @@ table {
     width: 130px; }
   table tr:nth-child(even) {
     background: #f1f2f5; }
-*/
+
 body {
-  color: white;
+  color: #494747;
   font-size: 16px;
   font-family: "PT Sans", sans-serif; }
 
