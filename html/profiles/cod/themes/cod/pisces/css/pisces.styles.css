@@ -38,7 +38,7 @@ p.button {
     border-bottom: solid 3px #2f5d8c; }
 
 body {
-  background: url(../images/white_wave.png) #f0f1f4 repeat; }
+  background: url(../images/white_wave.png) white repeat; }
   body a {
     color: #326294;
     text-decoration: none; }
@@ -141,7 +141,7 @@ p.button {
 .l-region--footer .block p {
   line-height: 1.5em; }
 
-@media (min-width: 468px) {
+@media (min-width: 768px) {
   .l-region--footer .block {
     float: left;
     width: 28%;
@@ -262,6 +262,7 @@ p.button {
   padding-top:10px;
   padding-bottom: 10px;
   background-color: white;
+
 }
 #devconf_sponsors{
   float:right;
