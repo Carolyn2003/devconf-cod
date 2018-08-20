@@ -121,7 +121,7 @@
 
   /* Sidebars */
   .l-content {
-    width: 66.50246%;
+    width: 100%;
     float: left;
     margin-right: -100%;
     margin-left: 0%;
@@ -143,6 +143,3 @@
     margin-right: 0;
     clear: none;
     clear: none; } }
-body{
-  width: 1500px;
-}
