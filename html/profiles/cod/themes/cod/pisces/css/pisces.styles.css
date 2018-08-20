@@ -38,7 +38,7 @@ p.button {
     border-bottom: solid 3px #2f5d8c; }
 
 body {
-  background: url(../images/white_wave.png) white repeat; }
+  background: url(../images/white_wave.png) #f0f1f4 repeat; }
   body a {
     color: #326294;
     text-decoration: none; }
@@ -112,7 +112,8 @@ table {
 body {
   color: #494747;
   font-size: 16px;
-  font-family:"PT Sans", sans-serif, ; }
+  font-family:"PT Sans", sans-serif, ;
+  width: 100%;}
 
 .front .l-region--footer h2 {
   font-size: 2.25em;
