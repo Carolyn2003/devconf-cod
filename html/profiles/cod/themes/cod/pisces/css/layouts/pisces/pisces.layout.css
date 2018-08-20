@@ -4,7 +4,7 @@
  * Styles for the Pisces layout.
  ******************************************************************************/
 .l-constrained, .l-region--highlighted, .l-region--footer {
-  width: 100%;
+  width: 95%;
   margin: 0 auto;
   *zoom: 1; }
   .l-constrained:after, .l-region--highlighted:after, .l-region--footer:after {
@@ -36,12 +36,12 @@
 .l-footer-wrapper {
   padding: 25px 0; }
 
-@media (min-width: 768px) {
+@media (min-width: 1000px) {
   .l-content {
     margin-bottom: 0; }
 
   .l-constrained, .l-region--highlighted, .l-region--footer {
-    width: 100%; }
+    width: 90%; }
 
   /* Sidebars */
   .l-content {
