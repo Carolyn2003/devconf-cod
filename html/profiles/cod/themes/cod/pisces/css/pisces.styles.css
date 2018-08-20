@@ -141,10 +141,10 @@ p.button {
 .l-region--footer .block p {
   line-height: 1.5em; }
 
-@media (min-width: 768px) {
+@media (min-width: 468px) {
   .l-region--footer .block {
     float: left;
-    width: 10%;
+    width: 28%;
     margin: 2%; }
     .l-region--footer .block:first-child {
       width: 100%; }
