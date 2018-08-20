@@ -262,35 +262,35 @@ p.button {
   padding-top:10px;
   padding-bottom: 10px;
   background-color: white;
-  position: absolute;
+  position: static;
 }
 #devconf_sponsors{
   float:right;
-  position: absolute;
+  position: static;
 }
 #devconf_dates{
   float:right;
-  position: absolute;
+  position: static;
 }
  #devconf_home{
    float:right;
-   position: absolute;
+   position: static;
  }
  #devconf_travel{
-   position: absolute;
+   position: static;
    float:right;
  }
  #devconf_themes{
    float:right;
-   position: absolute;
+   position: static;
  }
  #devconf_info{
    margin-left: -30px;
-   position: absolute;
+   position: static;
  }
  #devconf_logo{
    margin-top: -25px;
-   position: absolute;
+   position: static;
  }
 .tabs--primary {
   border-bottom: none;
