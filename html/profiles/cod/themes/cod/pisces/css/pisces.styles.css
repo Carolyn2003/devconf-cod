@@ -229,8 +229,7 @@ p.button {
     text-align: center; }
 
 .mean-container .l-region--preface .menu {
-  display: none;
-  position: fixed;}
+  display: none; }
 
 .l-region--preface .menu {
   padding-left: 0;
@@ -243,6 +242,7 @@ p.button {
     list-style-image: none;
     list-style: none;
     float: left;
+    min-width: 200px;
     padding: 25px 20px; }
 
     .l-region--preface .menu li:hover {
