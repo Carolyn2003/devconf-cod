@@ -110,7 +110,8 @@ table {
     background: #f1f2f5; }
 
 body {
-  color: white;
+  background-color: white;
+  color: #494747;
   font-size: 16px;
   font-family:"PT Sans", sans-serif, ; }
 
