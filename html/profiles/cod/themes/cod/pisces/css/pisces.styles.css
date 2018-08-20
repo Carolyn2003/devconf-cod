@@ -38,7 +38,7 @@ p.button {
     border-bottom: solid 3px #2f5d8c; }
 
 body {
-  background-color: white;}
+  background: url(../images/white_wave.png) #f0f1f4 repeat; }
   body a {
     color: #326294;
     text-decoration: none; }
