@@ -36,7 +36,7 @@
 .l-footer-wrapper {
   padding: 25px 0; }
 
-@media (min-width: 1000px) {
+@media (min-width: 768px) {
   .l-content {
     margin-bottom: 0; }
 
@@ -88,9 +88,9 @@
     margin-left: 0;
     margin-right: 0;
     clear: none; } }
-@media (min-width: 1200px) {
+@media (min-width: 1400px) {
   .l-constrained, .l-region--highlighted, .l-region--footer {
-    width: 80%; }
+    width: 100%; }
 
   /* Sidebars*/
   .l-content {
