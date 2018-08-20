@@ -144,7 +144,7 @@ p.button {
 @media (min-width: 768px) {
   .l-region--footer .block {
     float: left;
-    width: 28%;
+    width: 10%;
     margin: 2%; }
     .l-region--footer .block:first-child {
       width: 100%; }
