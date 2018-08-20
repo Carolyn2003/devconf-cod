@@ -88,9 +88,9 @@
     margin-left: 0;
     margin-right: 0;
     clear: none; } }
-@media (min-width: 1400px) {
+@media (min-width: 1200px) {
   .l-constrained, .l-region--highlighted, .l-region--footer {
-    width: 100%; }
+    width: 80%; }
 
   /* Sidebars*/
   .l-content {
@@ -121,7 +121,7 @@
 
   /* Sidebars */
   .l-content {
-    width: 66.50246%;
+    width: 100%;
     float: left;
     margin-right: -100%;
     margin-left: 0%;
