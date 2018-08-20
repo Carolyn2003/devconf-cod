@@ -242,7 +242,6 @@ p.button {
     list-style-image: none;
     list-style: none;
     float: left;
-    position:static;
     padding: 25px 20px; }
 
     .l-region--preface .menu li:hover {
@@ -263,27 +262,35 @@ p.button {
   padding-top:10px;
   padding-bottom: 10px;
   background-color: white;
+  position: fixed;
 }
 #devconf_sponsors{
   float:right;
+  position: fixed;
 }
 #devconf_dates{
   float:right;
+  position: fixed;
 }
  #devconf_home{
    float:right;
+   position: fixed;
  }
  #devconf_travel{
+   position: fixed;
    float:right;
  }
  #devconf_themes{
    float:right;
+   position: fixed;
  }
  #devconf_info{
    margin-left: -30px;
+   position: fixed;
  }
  #devconf_logo{
    margin-top: -25px;
+   position: fixed;
  }
 .tabs--primary {
   border-bottom: none;
