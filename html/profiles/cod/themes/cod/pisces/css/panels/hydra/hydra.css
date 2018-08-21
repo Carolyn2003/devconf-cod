@@ -76,10 +76,7 @@ body {
 
 .front .l-main-wrapper {
   background-color: white; }
-.l-page-has-no-sidebars{
-  width: 1280px;
 
-}
 
 .not-front .l-content, .not-front .l-region--sidebar .block {
   background-color: white; }
@@ -572,7 +569,7 @@ body #page .panel-display .width-100 {
 
 .panel-layout {
   margin: 0;
-  max-width: 1200px; }
+  max-width: 1280px; }
   .panel-layout .container {
     float: left;
     clear: left;
