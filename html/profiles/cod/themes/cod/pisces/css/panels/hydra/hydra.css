@@ -11,7 +11,7 @@
   *behavior: url('../../../behaviors/box-sizing/boxsizing.php'); }
 
 img, video {
-  max-width: 1280px;
+  max-width: 100%;
   height: auto; }
 
 .site-branding__name {
@@ -44,6 +44,7 @@ body {
     text-decoration: none; }
     body a:hover, body a:active {
       text-decoration: underline; }
+
 
 .l-header {
   padding-top: 18px; }
@@ -82,15 +83,15 @@ menu, ol, ul {
   padding-left: 18px; }
 
 img, media {
-  max-width: 1280px; }
+  max-width: 100%; }
 
 .l-region--sidebar .block img {
-  width: 1280px; }
+  width: 100%; }
 
 table {
   border-collapse: collapse;
   margin: 0 0 30px 0;
-  width: 1280px; }
+  width: 100%; }
   table td {
     padding: 10px 10px; }
   table td:first-child {
@@ -127,7 +128,7 @@ p.button {
   font-size: 1.5em;
   text-align: center; }
 .l-region--footer .block img {
-  width: 1280px; }
+  width: 100%; }
 .l-region--footer .block p {
   line-height: 1.5em; }
 
@@ -137,9 +138,9 @@ p.button {
     width: 28%;
     margin: 2%; }
     .l-region--footer .block:first-child {
-      width: 1280px; }
+      width: 100%; }
     .l-region--footer .block img {
-      width: 1280px; } }
+      width: 100%; } }
 p.button {
   border-bottom: solid 3px #25496e;
   -moz-border-radius: 2px;
@@ -178,14 +179,14 @@ p.button {
   min-height: 40px;
   padding: 6px 0 0 0;
   position: absolute;
-  width: 1280px;
+  width: 100%;
   z-index: 999999; }
 
 .mean-container .mean-nav {
   background: none repeat scroll 0 0 white;
   float: left;
   margin-top: 40px;
-  width: 1280px; }
+  width: 100%; }
   .mean-container .mean-nav ul li a {
     border-bottom: 1px solid #f0f1f4;
     color: #615f5e;
