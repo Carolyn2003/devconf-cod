@@ -4,7 +4,7 @@
  * Styles for the Pisces layout.
  ******************************************************************************/
 .l-constrained, .l-region--highlighted, .l-region--footer {
-  width: 95%;
+  width: 1280px;
   margin: 0 auto;
   *zoom: 1; }
   .l-constrained:after, .l-region--highlighted:after, .l-region--footer:after {
@@ -15,7 +15,7 @@
 /* Header */
 .l-branding {
   text-align: center;
-  width: 100%; }
+  wwidth: 1280px; }
 
 /* Content Area */
 .l-highlighted-wrapper {
@@ -41,24 +41,24 @@
     margin-bottom: 0; }
 
   .l-constrained, .l-region--highlighted, .l-region--footer {
-    width: 90%; }
+    width: 1280px; }
 
   /* Sidebars */
   .l-content {
-    width: 66.50246%;
+    width: 1280px;
     margin-right: -100%;
     margin-left: 0%;
     clear: none; }
 
   .has-no-sidebars .l-content {
-    width: 100%;
+    width: 1280px;
     float: right;
     margin-left: 0;
     margin-right: 0;
     clear: none; }
 
   .l-region--sidebar {
-    width: 33.00493%;
+    width: 1280px;
     float: right;
     margin-left: 0;
     margin-right: 0;
@@ -67,7 +67,7 @@
 @media (min-width: 980px) {
   /* Header */
   .l-branding {
-    width: 41.37931%;
+    width: 1280px;
     float: left;
     margin-right: -100%;
     margin-left: 0%;
@@ -75,7 +75,7 @@
     text-align: left; }
 
   .l-region--header {
-    width: 58.12808%;
+    width: 1280px;
     float: right;
     margin-left: 0;
     margin-right: 0;
@@ -83,7 +83,7 @@
     text-align: left; }
 
   .l-region--navigation {
-    width: 100%;
+    width: 1280px;
     float: right;
     margin-left: 0;
     margin-right: 0;
@@ -94,7 +94,7 @@
 
   /* Sidebars*/
   .l-content {
-    width: 66.50246%;
+    width: 1280px;
     float: left;
     margin-right: -100%;
     margin-left: 0%;
@@ -102,14 +102,14 @@
     }
 
   .has-no-sidebars .l-content {
-    width: 100%;
+    width: 1280px;
     float: right;
     margin-left: 0;
     margin-right: 0;
     clear: none; }
 
   .l-region--sidebar {
-    width: 33.00493%;
+    width: 1280px;
     float: right;
     margin-left: 0;
     margin-right: 0;
@@ -121,7 +121,7 @@
 
   /* Sidebars */
   .l-content {
-    width: 66.50246%;
+    width: 1280px;
     float: left;
     margin-right: -100%;
     margin-left: 0%;
@@ -130,14 +130,14 @@
    }
 
   .has-no-sidebars .l-content {
-    width: 100%;
+    width: 1280px;
     float: right;
     margin-left: 0;
     margin-right: 0;
     clear: none; }
 
   .l-region--sidebar {
-    width: 33.00493%;
+    width: 1280px;
     float: right;
     margin-left: 0;
     margin-right: 0;
