@@ -11,7 +11,7 @@
   *behavior: url('../../../behaviors/box-sizing/boxsizing.php'); }
 
 img, video {
-  max-width: 100%;
+  max-width: 1320px;
   height: auto; }
 
 .site-branding__name {
@@ -83,10 +83,10 @@ menu, ol, ul {
   padding-left: 18px; }
 
 img, media {
-  max-width: 100%; }
+  max-width: 1320px; }
 
 .l-region--sidebar .block img {
-  width: 100%; }
+  width: 1320px; }
 
 table {
   border-collapse: collapse;
