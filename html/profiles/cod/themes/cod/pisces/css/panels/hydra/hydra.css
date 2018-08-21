@@ -76,11 +76,11 @@ body {
     text-decoration: none; }
 
 .front .l-main-wrapper {
-  background-color: black; }
+  background-color: white; }
 
 
 .not-front .l-content, .not-front .l-region--sidebar .block {
-  background-color: black; }
+  background-color: white; }
 
 menu, ol, ul {
   padding-left: 18px; }
@@ -576,7 +576,8 @@ body #page .panel-display .width-100 {
     clear: left;
     width: 100%; }
   .panel-layout .panel-pane {
-    position: relative; }
+    position: relative;
+    background-color: black;}
     .panel-layout .panel-pane.width-25 {
       width: 25%;
       float: left; }
