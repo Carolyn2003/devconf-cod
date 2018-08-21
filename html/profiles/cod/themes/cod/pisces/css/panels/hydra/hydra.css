@@ -11,7 +11,7 @@
   *behavior: url('../../../behaviors/box-sizing/boxsizing.php'); }
 
 img, video {
-  max-width: 100%;
+  max-width: 1280px;
   height: auto; }
 
 .site-branding__name {
@@ -44,9 +44,6 @@ body {
     text-decoration: none; }
     body a:hover, body a:active {
       text-decoration: underline; }
-#image{
-  width: 1280px;
-}
 
 .l-header {
   padding-top: 18px; }
