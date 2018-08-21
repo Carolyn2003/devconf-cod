@@ -344,7 +344,7 @@ p.button {
   float: left;
   padding-bottom: 20px;
   padding-top: 24px;
-  width: 1280px; }
+  width: 100%; }
   .view-cod-session-schedule .views-row.views-row-last, .view-cod-bof-schedule .views-row.views-row-last, .view-cod-schedule .views-row.views-row-last {
     border-bottom: none; }
 .view-cod-session-schedule .views-field-field-experience, .view-cod-bof-schedule .views-field-field-experience, .view-cod-schedule .views-field-field-experience {
