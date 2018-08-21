@@ -574,7 +574,8 @@ body #page .panel-display .width-100 {
   .panel-layout .container {
     float: left;
     clear: left;
-    width: 100%; }
+    width: 100%;
+    background-color: black;}
   .panel-layout .panel-pane {
     position: relative;
     background-color: black;}
