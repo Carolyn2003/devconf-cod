@@ -43,7 +43,8 @@ body {
     color: #326294;
     text-decoration: none; }
     body a:hover, body a:active {
-      text-decoration: underline; }
+      text-decoration: underline;
+      width: 1280px;}
 
 
 .l-header {
