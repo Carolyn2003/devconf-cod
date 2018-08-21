@@ -9,7 +9,7 @@
   -moz-box-sizing: border-box;
   box-sizing: border-box;
   *behavior: url('../../../behaviors/box-sizing/boxsizing.php');
-  background-color: black;}
+  }
 
 img, video {
   max-width: 100%;
@@ -43,7 +43,8 @@ body {
   background: url(../images/white_wave.png) #f0f1f4 repeat; }
   body a {
     color: #326294;
-    text-decoration: none; }
+    text-decoration: none;
+    background-color: black;}
     body a:hover, body a:active {
       text-decoration: underline; }
 
