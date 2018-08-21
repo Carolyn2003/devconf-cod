@@ -44,6 +44,9 @@ body {
     text-decoration: none; }
     body a:hover, body a:active {
       text-decoration: underline; }
+#image{
+  width: 1280px;
+}
 
 .l-header {
   padding-top: 18px; }
