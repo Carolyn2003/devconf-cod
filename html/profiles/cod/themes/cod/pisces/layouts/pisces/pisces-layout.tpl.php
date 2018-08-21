@@ -42,21 +42,7 @@
           <?php print render($page['preface']); ?>
           <?php print render($title_prefix); ?>
           <?php if ($title): ?>
-          <?php endif; ?>
-          <?php print render($title_suffix); ?>
-        <?php endif; ?>
-        <?php if ($action_links): ?>
-          <ul class="action-links"><?php print render($action_links); ?></ul>
-        <?php endif; ?>
-        <?php print render($page['content']); ?>
-        <?php print $feed_icons; ?>
-      </div>
-      <div class="l-content" role="main">
-        <?php if (!$is_front): ?>
-          <?php print render($page['preface']); ?>
-          <?php print render($title_prefix); ?>
-            <img src="https://avatars3.githubusercontent.com/u/24980510?s=400&v=4" id="small_logo"/>
-          <?php if ($title): ?>
+      
           <?php endif; ?>
           <?php print render($title_suffix); ?>
         <?php endif; ?>
