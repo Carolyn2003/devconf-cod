@@ -343,8 +343,7 @@ p.button {
 
 .l-page .img-float img {
   float: left;
-  margin-right: 15px;
-  margin-left: 15px;}
+  margin-right: 15px; }
 
 .pane-content.img-sm img,
 .img-sm img {
