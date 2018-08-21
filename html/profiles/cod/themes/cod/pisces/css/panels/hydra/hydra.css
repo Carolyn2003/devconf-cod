@@ -76,6 +76,9 @@ body {
 
 .front .l-main-wrapper {
   background-color: white; }
+.l-main-wrapper{
+  width: 1280px;
+}
 
 .not-front .l-content, .not-front .l-region--sidebar .block {
   background-color: white; }
