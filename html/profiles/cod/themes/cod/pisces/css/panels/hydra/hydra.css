@@ -61,7 +61,7 @@ body {
       color: #aec8e4; }
 
 .l-highlighted-wrapper {
-  background-color: black;
+  background-color: #4d5770;
   height: 300px; }
 
 .l-region--highlighted {
@@ -80,7 +80,7 @@ body {
 
 
 .not-front .l-content, .not-front .l-region--sidebar .block {
-  background-color: white; }
+  background-color: black; }
 
 menu, ol, ul {
   padding-left: 18px; }
