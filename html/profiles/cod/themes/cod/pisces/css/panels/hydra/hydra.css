@@ -8,7 +8,8 @@
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
-  *behavior: url('../../../behaviors/box-sizing/boxsizing.php'); }
+  *behavior: url('../../../behaviors/box-sizing/boxsizing.php');
+  background-color: black;}
 
 img, video {
   max-width: 100%;
@@ -568,7 +569,6 @@ body #page .panel-display .width-100 {
   padding-left: 0; }
 
 .panel-layout {
-  background-color: red;
   margin: 0;
   max-width: 1280px; }
   .panel-layout .container {
