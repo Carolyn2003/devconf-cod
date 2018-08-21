@@ -206,7 +206,7 @@ p.button {
     text-align: left;
     text-decoration: none;
     text-transform: none;
-    width: 90%; }
+    width: 100%; }
   .mean-container .mean-nav ul li a.mean-expand {
     background: url(../images/expand.gif) transparent center center no-repeat; }
     .mean-container .mean-nav ul li a.mean-expand:hover {
@@ -220,7 +220,7 @@ p.button {
     .mean-container .mean-nav ul li li a {
       border-bottom: 1px solid #d3d6de;
       padding: 1em 7%;
-      width: 86%; }
+      width: 100%; }
 
 .mean-nav > ul > li:last-child {
   background-color: #326294; }
