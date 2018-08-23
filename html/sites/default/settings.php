@@ -249,11 +249,11 @@ $databases = array (
   array (
     'default' => 
     array (
-      'database' => 'devconf_site',
-      'username' => 'sqluser',
-      'password' => 'Carolyn20',
-      'host' => 'localhost',
-      'port' => '',
+      'database' => getenv('MYSQL_DATABASE'),
+      'username' => getenv('MYSQL_USER'),
+      'password' => getenv('MYSQL_PASSWORD'),
+      'host' => getenv('MYSQL_SERVICE_HOST'),
+      'port' => getenv('MYSQL_SERVICE_PORT'),
       'driver' => 'mysql',
       'prefix' => '',
     ),
